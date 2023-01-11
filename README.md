@@ -1,4 +1,5 @@
 # auto-tagging
+- Jupyter + Pycharm: https://www.caitlincasar.com/post/pycharm/
 - analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/
 - Data Cleaning: https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f 
 - https://medium.com/@b.terryjack/nlp-everything-about-word-embeddings-9ea21f51ccfe
