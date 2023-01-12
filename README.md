@@ -9,3 +9,4 @@
 - https://stackoverflow.com/questions/15377290/unsupervised-automatic-tagging-algorithms
 - https://stackoverflow.com/questions/6039238/how-to-auto-tag-content-algorithms-and-suggestions-needed
 - https://stackoverflow.com/questions/44763743/supervised-tag-suggestion-for-documents
+- https://stackoverflow.com/questions/65124633/line-magic-function-time-not-found
